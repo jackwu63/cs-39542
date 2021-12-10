@@ -1,2 +1,3 @@
-# cs-39542
-Project
+# Jack Wu
+
+#Hate Crimes In NYC by Precinct Project
