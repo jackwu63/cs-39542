@@ -4,4 +4,4 @@
 * Code that creates a choropleth map indicating the # of occurrences a crime is committed in police precincts.
 * Used python to filter datasets to isolate data pertaining to precinct, year, areas
 
-![](https://github.com/jackwu63/cs-39542/blob/main/images/meh.PNG)
+![](/images/meh.PNG)
